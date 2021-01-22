@@ -10,6 +10,6 @@
     "compile:sass": "node-sass sass/main.scss css/style.css",
     "watch-css": "nodemon -e scss -x \"npm run compile:sass\""
   },
-  "author": "",
+  "author": "Mouri",
   "license": "ISC"
 }
